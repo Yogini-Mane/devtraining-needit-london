@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CustomUserDate" max_length="40" name="x_58872_needit_customuserdate" type="collection">
+        <element label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element label="Manager Name" max_length="40" name="manager_name" type="string"/>
+        <element label="Salary" max_length="40" name="salary" type="integer"/>
+    </element>
+</database>

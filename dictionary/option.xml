@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Employee ID" max_length="40" name="x_58872_needit_u_employee_id" type="string"/>
+        <element label="End Date" max_length="40" name="x_58872_needit_u_end_date" type="glide_date"/>
+        <element label="Start Date" max_length="40" name="x_58872_needit_u_start_date" type="glide_date"/>
+        <element label="Friday" max_length="40" name="x_58872_needit_u_time_friday" type="integer"/>
+        <element label="Monday" max_length="40" name="x_58872_needit_u_time_monday" type="integer"/>
+        <element label="Thursday" max_length="40" name="x_58872_needit_u_time_thursday" type="integer"/>
+        <element label="Tuesday" max_length="40" name="x_58872_needit_u_time_tuesday" type="integer"/>
+        <element label="Wednesday" max_length="40" name="x_58872_needit_u_time_wednesday" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="User Name" max_length="40" name="x_58872_needit_u_user_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Timesheet" max_length="40" name="x_58872_needit_timesheet" type="collection">
+        <element label="Friday" max_length="40" name="friday" type="integer"/>
+        <element label="Monday" max_length="40" name="monday" type="integer"/>
+        <element label="Thursday" max_length="40" name="thursday" type="integer"/>
+        <element label="Tuesday" max_length="40" name="tuesday" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="User Name" max_length="40" name="u_user_name" type="string"/>
+        <element label="Wednesday" max_length="40" name="wednesday" type="integer"/>
+    </element>
+</database>
